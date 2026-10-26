@@ -1,4 +1,4 @@
-# csv2sql
+# CSV2SQL
 
 Command-line CSV to SQL converter. Reads a `.csv`, infers column types, and
 writes a `CREATE TABLE` plus batched `INSERT` statements.
